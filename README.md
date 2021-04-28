@@ -22,6 +22,6 @@ Many of the projects that I work on a daily basis are for my company, so my side
 🌱 Here are somethings I want to learn in 2021:
 - React Query
 - GraphQL
-- ✅ Tailind 
+- ✅ Tailwind CSS 
 - XState
 - Redux
