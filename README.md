@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Frontend Developer based out of Pasadena, CA.
+I currently work as a Frontend developer at QLess Inc. where I create user interfaces for our applications, write lots of JavaScript, and work to improve developer culture by encounrage our team to ✨learn in public✨. 
+Many of the projects that I work on a daily basis are for my company, so my side projects are a bit sparse, though I do love playing new tools and technologies when I have a chance.
+
+🌱 Here are somethings I want to learn in 2021:
+- React Query
+- GraphQL
+- ✅ Tailind 
+- XState
+- Redux
