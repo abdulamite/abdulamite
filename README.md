@@ -23,5 +23,6 @@ Many of the projects that I work on a daily basis are for my company, so my side
 - React Query
 - GraphQL
 - ✅ Tailwind CSS 
+- ✅ TypeScript
 - XState
 - Redux
