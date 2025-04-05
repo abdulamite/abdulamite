@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Developer based out of Pasadena, CA.
-I currently work as an Internal tools developer at Bolt.com where I create user interfaces for our applications, write lots of Typescript, and push others to improve internal tooling.
-Many of the projects that I work on a daily basis are for my company, so my side projects are a bit sparse, though I do love playing new tools and technologies when I have a chance.
+👋 Hi, I'm Abdul — a full-stack developer based in Pasadena, CA.
+
+I work at Bolt, where I build user interfaces, improve developer experience and champion better tooling across the company. I mostly write TypeScript and Go, and I spend a lot of time thinking about making dev workflows smoother and systems more reliable.
+Most of my work is behind the scenes (and behind a VPN), but I try to carve out time to explore new tools, frameworks, and obscure parts of the web platform. Always down to learn, experiment, and refactor something bothering me for weeks. Mostly I just want to ride my bike. 
+
